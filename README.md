@@ -5,9 +5,9 @@ Avracraft is a mod for Minecraft which integrates multiple new items and tools t
 
 # Links
 
-ProjectRevise Website
+<a href="http://www.projectrevise.com">ProjectRevise Website</a>
 
-ProjectRevise Twitter
+<a href="http://www.projectrevise.com">ProjectRevise Twitter</a>
 
 # Requirements
 
