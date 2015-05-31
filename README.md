@@ -27,7 +27,7 @@ Download and extract forge src into a new folder.
 
 This is a MineCraft Mod passed in the reserved, major, minor, revision ints for this version of the mod. See the 'Versioning System' section below.
 
-Versioning System
+# Versioning System
 
 Build is used for beta releases allowing you to have higher version numbers but force users to update when the real release comes. 
 
