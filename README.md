@@ -11,15 +11,15 @@ Avracraft is a mod for Minecraft which integrates multiple new items and tools t
 
 # Requirements
 
-Java Development Kit (JDK)
+<a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">Java Development Kit (JDK)</a>
 
 Download and install the latest version from Oracle's Java Downloads page.
 
-Eclipse
+<a href="https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/lunasr2">Eclipse</a>
 
-Install Eclipse  via the official Eclipse Site.
+Install Eclipse via the official Eclipse Site.
 
-Forge 1.7.10 scr
+<a href="http://adfoc.us/serve/sitelinks/?id=271228&url=http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.3.1420-1.7.10/forge-1.7.10-10.13.3.1420-1.7.10-src.zip">Forge 1.7.10 scr</a>
 
 Download and extract forge src into a new folder.
 
