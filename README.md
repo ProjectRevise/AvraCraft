@@ -1,4 +1,4 @@
-# avracraft
+# AvraCraft
 What is it?
 
 Avracraft is a mod for Minecraft which integrates multiple new items and tools to be installed easily and quickly.
