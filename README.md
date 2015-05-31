@@ -23,7 +23,7 @@ Install Eclipse via the official Eclipse Site.
 
 Download and extract forge src into a new folder.
 
-# VERSION
+# Version
 
 This is a MineCraft Mod passed in the reserved, major, minor, revision ints for this version of the mod. See the 'Versioning System' section below.
 
